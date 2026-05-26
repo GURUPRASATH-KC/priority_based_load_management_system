@@ -1,0 +1,11 @@
+Hardware Components:
+
+1. Arduino Uno
+2. 3-Channel Relay Module
+3. LCD 16x2 Display
+4. Voltage Sensor Module (ZMPT101B or similar)
+5. Breadboard
+6. Connecting Wires
+7. Power Supply (5V DC / Adapter)
+8. Electrical Loads (bulb/fan/motor simulation loads)
+9. Potentiometer (10K for LCD contrast)
